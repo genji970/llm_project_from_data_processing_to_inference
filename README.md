@@ -4,6 +4,8 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 ## used ##
 python , torch , ray , huggingface , 
 
+## how to run ## 
+
 ## Data parsing ##
 
 ## Data process ##
