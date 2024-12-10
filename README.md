@@ -11,9 +11,11 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 3) adding rag + adding faiss<br>
 4) considering loss func in faiss
 
-## didn't check ##
-def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
-: padding_value=128001 -> might be something starts 5 , ignore_value= -100 for gpt2 not other llm
+## didn't check yet ##
+1) def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
+: padding_value=128001 -> might be something starts 5 , ignore_value= -100 for gpt2 not other llm<br>
+
+2) Did masked attention work?
 
 ## experiment ##
 
@@ -23,6 +25,8 @@ def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
 2) chatbot sample :  ![chatbot result sample](https://github.com/user-attachments/assets/66bf394b-ef27-4c43-a0bf-6e678b820110)
 
 ## how to run ## 
+You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
+
 
 ## Data parsing ##
 
