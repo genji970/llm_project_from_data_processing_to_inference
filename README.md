@@ -15,6 +15,14 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
 : padding_value=128001 -> might be something starts 5 , ignore_value= -100 for gpt2 not other llm
 
+## experiment ##
+
+1) model fine tuning experiment first trial.
+ ![llm_lora_fine_tuning_result_for_2_epochs](https://github.com/user-attachments/assets/e119c665-c6b9-4aa2-88ae-b10c8416dc98)
+
+2) chatbot sample :
+   ![chatbot result sample](https://github.com/user-attachments/assets/66bf394b-ef27-4c43-a0bf-6e678b820110)
+
 ## how to run ## 
 
 ## Data parsing ##
