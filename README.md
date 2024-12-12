@@ -6,9 +6,6 @@ not finished
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
 
-2) `data_process - data_main -> Data_parsing - parsing_2 -> tokenizer - tokenizer_main ->
-model_build_folder - model_build -> model_train - model_main -> agent - agent_main ->
-app - app_main (folder - py.file. You have to run one by one)`
 
 ## used ##
 python==3.10.0 , torch , ray , huggingface , langchain , flask 
