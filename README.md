@@ -6,12 +6,6 @@ not finished
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
 
-2) if you want to do cahtbot system,
-   ``
-
-3) if you want to do app system,
-   ``
-
 ## used ##
 python==3.10.0 , torch , ray , huggingface , langchain , flask 
 
