@@ -3,6 +3,9 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 not finished
 
+## Update ##
+2024.12.15 : now can include multiple papers as part of the training dataset
+
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
 2) You need to change base_path , input_folder_path , output_folder_path , parsing_output_folder_path in master.config -- i will change this later
