@@ -8,9 +8,9 @@ not finished
 
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
-2) You need to change base_path , input_folder_path , output_folder_path , parsing_output_folder_path in master.config -- i will change this later
-3) put code `python -m master.main execution mode fine_tuning mode` in terminal
-   execution_mode = ['chat_execution' , 'app_execution'] , fine_tuning mode = ['True' , 'False']
+2) You need to change base_path , input_folder_path , output_folder_path , parsing_output_folder_path in master.config -- i will change this later<br>
+3) put code `python -m master.main execution mode fine_tuning mode` in terminal<br>
+   execution_mode = ['chat_execution' , 'app_execution'] , fine_tuning mode = ['True' , 'False']<br>
    You will see pdf -> chunk -> model train -> chatbot system process
 
 
