@@ -28,6 +28,7 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 2) Did masked attention work?
 
 ## experiment ##
+It is an experiment to determine whether the design is formally valid. Since making a pipeline is in progress. 
 
 1) model fine tuning experiment first trial.
 ![train result for experiment](https://github.com/user-attachments/assets/638f5215-4a45-48f9-98d3-664bcc57a978)
