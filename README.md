@@ -30,9 +30,9 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 ## experiment ##
 
 1) model fine tuning experiment first trial.
- ![llm_lora_fine_tuning_result_for_2_epochs](https://github.com/user-attachments/assets/e119c665-c6b9-4aa2-88ae-b10c8416dc98)
+![train result for experiment](https://github.com/user-attachments/assets/638f5215-4a45-48f9-98d3-664bcc57a978)
 
-2) chatbot sample :  ![chatbot result sample](https://github.com/user-attachments/assets/66bf394b-ef27-4c43-a0bf-6e678b820110)
+2) chatbot sample :  ![example for chatbot system](https://github.com/user-attachments/assets/f862181e-5903-448b-add7-c98e106a5ad7) reuslt seems quite bad. Since it is just for whether pipeline works well or not. pad value is different from real value and chunking process needs to develop , etc..
 
 ## Data parsing ##
 
