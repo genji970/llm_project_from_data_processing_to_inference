@@ -1,5 +1,5 @@
 
-def exclude_if_length_is_too_short(lines : []) -> []:
+def exclude_if_length_is_too_short(MIN_WORDS : int , lines : []) -> []:
 
 # 특정 단어 수 미만인 줄 필터링
 filtered_lines = []
