@@ -8,7 +8,6 @@ os.environ["GOOGLE_CSE_ID"] = "your-custom-search-engine-id"
 """
 import os
 import argparse
-from torch import device
 import torch
 from master.arg_add import *
 from master.config import *
