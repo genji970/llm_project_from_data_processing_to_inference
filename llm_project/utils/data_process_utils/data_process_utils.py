@@ -16,7 +16,7 @@ for line_number, line in enumerate(lines, start=1):
 ## deleting title , author name , reference , etc except main text words ##
 import re
 
-def clean_text(self, text):
+def clean_text(self, text : 'text') -> 'text' :
         """
         텍스트 클리닝 함수: 저자, 제목, 그래프/차트, 참고 문헌 제거
         :param text: 원본 텍스트
