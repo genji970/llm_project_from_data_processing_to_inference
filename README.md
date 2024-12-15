@@ -40,15 +40,8 @@ It is an experiment to determine whether the design is formally valid. Since mak
 
 2) chatbot sample :  ![example for chatbot system](https://github.com/user-attachments/assets/f862181e-5903-448b-add7-c98e106a5ad7) reuslt seems quite bad. Since it is just for whether pipeline works well or not. pad value is different from a real value and chunking process needs to develop , etc..
 
-## Data parsing ##
+## reference ## 
+1) Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information
+Ming Jiang, Tingting Huang, Biao Guo, Yao Lu, Feng Zhang
+2) 
 
-## Data process ##
-
-## tokenizing ##
-
-## model build ##
-
-## inference ##
-
-## making agent with langchain ##
-especially making agent with papers 
