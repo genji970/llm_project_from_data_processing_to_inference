@@ -8,6 +8,7 @@ in progress
 2024.12.16 : add parsing func,<br> 
 1. cutting lines if each line length is less than MIN_WORDS ,<br>
 2. Excluding contents after References
+3. post processing begin 
 
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
@@ -32,7 +33,7 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 
 ## didn't check yet ##
 1) def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
-: padding_value=128001 -> might be something starts 5 , ignore_value= -100 for gpt2 not other llm<br>
+: padding_value=128001 -> might be something starts 5 , ignore_value= -100 for gpt2 not other llm ---> solved<br>
 
 2) Did masked attention work?
 
