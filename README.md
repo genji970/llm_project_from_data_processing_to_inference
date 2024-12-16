@@ -42,7 +42,10 @@ It is an experiment to determine whether the design is formally valid. Since mak
 1) model fine tuning experiment first trial.
 ![train result for experiment](https://github.com/user-attachments/assets/638f5215-4a45-48f9-98d3-664bcc57a978)
 
-2) chatbot sample :  ![example for chatbot system](https://github.com/user-attachments/assets/f862181e-5903-448b-add7-c98e106a5ad7) reuslt seems quite bad. Since it is just for whether pipeline works well or not. pad value is different from a real value and chunking process needs to develop , etc..
+2) chatbot sample :  ![example for chatbot system](https://github.com/user-attachments/assets/f862181e-5903-448b-add7-c98e106a5ad7) reuslt seems quite bad. Since it is just for whether pipeline works well or not. pad value is different from a real value and chunking process needs to develop , etc..<br>
+
+   chatbot sample after simple post training : ![image](https://github.com/user-attachments/assets/b32dd546-ea94-46ca-bf5e-fe0089dc95a7)
+
 
 ## reference ## 
 1) Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information
