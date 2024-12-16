@@ -25,6 +25,7 @@ python==3.10.0 , torch , ray , huggingface , langchain , flask
 4) considering loss func in faiss
 5) developing app code
 6) chunking
+7) inference 
 
 ## didn't check yet ##
 1) def replace_padding_with_ignore in tokenizer folder tokenizing_process.py
