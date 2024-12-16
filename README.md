@@ -4,7 +4,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 in progress
 
 ## Update ##
-2024.12.15 : now can include multiple papers as part of the training dataset
+2024.12.15 : now can include multiple papers as part of the training dataset<br>
 2024.12.16 : add parsing func,<br> 
 1. cutting lines if each line length is less than MIN_WORDS ,<br>
 2. adding , etc...
