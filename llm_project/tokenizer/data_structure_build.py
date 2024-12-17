@@ -28,7 +28,7 @@ def data_preprocess(config):
     # train_data 생성
     train_data = [
         {
-            "prompt" : f"{row}",
+            "prompt" : f"'role' : 'user', 'conetent' : {row}",
             "completion" : f"{row}"
         }
         for _ , row in combined_df.iterrows()
