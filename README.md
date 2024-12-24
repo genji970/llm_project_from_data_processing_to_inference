@@ -19,7 +19,7 @@ in progress
 
 
 ## used ##
-python==3.10.0 , torch , ray , huggingface , langchain , flask 
+python==3.10.0 , torch , ray , huggingface , langchain(not yet) 
 
 ## future plans ## 
 
