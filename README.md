@@ -18,7 +18,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
    fine_tuning mode = ['True' , 'False']<br>
    You will see pdf -> chunk -> model train -> inference
 
-4) sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
+4) first sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
 
 
 ## used ##
