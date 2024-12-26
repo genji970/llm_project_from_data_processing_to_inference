@@ -4,7 +4,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 # in progress not end
 
 ## Update ##
-1. docker image build
+1. 2024.12.26 docker image build
 
 
 ## how to run ## 
