@@ -12,11 +12,13 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 
 ## how to run ## 
-1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal
+1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal since this project uses gpt2
 2) You need to change base_path , input_folder_path , output_folder_path , parsing_output_folder_path in master.config<br>
 3) put code `python -m master.main fine_tuning mode` in terminal<br>
    fine_tuning mode = ['True' , 'False']<br>
-   You will see pdf -> chunk -> model train -> inference<br> chatbot system process 
+   You will see pdf -> chunk -> model train -> inference
+
+4) sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
 
 
 ## used ##
