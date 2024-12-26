@@ -1,0 +1,16 @@
+torch == 2.5.1
+#data_process
+pyspark == 3.5.3
+ray   ==   2.40.0
+requests  == 2.32.3
+pymupdf ==  1.25.0
+#Data_parsing
+nltk==3.9.1
+#model_build_folder
+datasets==3.1.0
+transformers == 4.47.0
+peft == 0.14.0
+#agent
+langchain==0.3.10
+langchain_community== 0.3.10
+od == 2.0.2

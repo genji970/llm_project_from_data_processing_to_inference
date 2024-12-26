@@ -1,0 +1,9 @@
+## irrelevant information_type ##
+
+1) dataset comes from paper named "Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information"
+2) authors : Ming Jiang, Tingting Huang, Biao Guo, Yao Lu, Feng Zhang
+3) link : https://github.com/ymt9/GSMIR/blob/master/IR.json
+
+## how to use this dataset ##
+
+since this dataset already consists of normal text , text including irrelevant information, I will try data augmentation by using irrelevant information indicator and use it while training.
