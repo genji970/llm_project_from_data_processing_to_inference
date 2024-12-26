@@ -20,7 +20,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 
 ## used ##
-python==3.10.0 , torch , ray , huggingface , langchain(not yet) 
+python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , ..
 
 ## future plans ## 
 
