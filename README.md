@@ -10,7 +10,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal 
-2) `git clone this repo and put : python -m master.main True` or use `dockerimage run code`<br>
+2) `git clone this repo and put : python -m master.main True` or use `docker_image run code`<br>
    fine_tuning mode = ['True' , 'False']<br>
    You will see pdf -> chunk -> model train -> inference
 
