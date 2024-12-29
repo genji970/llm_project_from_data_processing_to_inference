@@ -24,17 +24,12 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 
 1) current torch : cpu -> torch : cuda 11.3(after finishing process)<br>
 2) more pdf files<br>
-3) adding rag + adding faiss<br>
-4) considering loss func in faiss
-5) developing app code
-6) chunking
-7) inference
-8) langchain plus
-9) container
-10) rag
-11) model opt. i) data aug ii) considering mismatch iii) alignment by RLHF<br>
+3) inference , lang add
+4) model opt. i) data aug ii) considering mismatch iii) alignment by RLHF<br>
 
-12) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
+5) using reference paper , paper/s dataset 
+
+6) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
 
 ## reference ## 
 1) Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information
