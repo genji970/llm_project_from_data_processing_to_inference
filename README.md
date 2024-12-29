@@ -24,8 +24,9 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 
 1) current torch : cpu -> torch : cuda 11.3(after finishing process)<br>
 2) more pdf files<br>
-3) inference , lang add
-4) model opt. i) data aug ii) considering mismatch iii) alignment by RLHF<br>
+3) loss decline
+4) inference , lang add
+5) model opt. i) data aug ii) considering mismatch iii) alignment by RLHF<br>
 
 5) using reference paper , paper/s dataset 
 
