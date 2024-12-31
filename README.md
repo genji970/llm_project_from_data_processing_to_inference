@@ -5,7 +5,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 ## Update ##
 1. 2024.12.26 docker image build
-2. no path problem occurs. changed : "C:/.." -> os.path.dirname(__file__). code will automatically change pathes 
+2. no path problem occurs. changed : "C:/.." -> os.path.dirname(__file__). code will automatically change paths 
 
 
 ## how to run ## 
