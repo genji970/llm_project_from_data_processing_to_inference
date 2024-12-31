@@ -33,7 +33,5 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 6) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
 
 ## reference ## 
-1) Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information
-Ming Jiang, Tingting Huang, Biao Guo, Yao Lu, Feng Zhang
-2) 
+1)
 
