@@ -14,7 +14,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
    fine_tuning mode = ['True' , 'False']<br>
    You will see pdf -> chunk -> model train -> inference
 
-4) first sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
+4) sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
 
 
 ## used ##
@@ -28,7 +28,7 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 4) inference , lang add
 5) model opt. i) data aug ii) considering mismatch iii) alignment by RLHF<br>
 
-5) using reference paper , paper/s dataset 
+5) using reference paper , paper's dataset 
 
 6) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
 
