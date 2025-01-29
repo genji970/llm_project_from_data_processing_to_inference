@@ -2,7 +2,7 @@
 pipeline building to get pdf files and fine tune pretrained model, lastly use this model. pdf file을 받아서 llm을 파인튜닝하는 파이프라인 구축, model의 활용
 
 # in progress not end
-this project and 3d vision project(in this repo : https://github.com/genji970/3d-ai-computervision-reconstruction) will be parts of ros project 
+this project will be a part of ros project 
 
 ## Update ##
 1. 2024.12.26 docker image build
