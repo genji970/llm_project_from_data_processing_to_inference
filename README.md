@@ -34,5 +34,4 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 6) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
 
 ## reference ## 
-1)
 
