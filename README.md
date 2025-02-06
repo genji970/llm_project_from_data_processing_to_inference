@@ -2,7 +2,6 @@
 pipeline building to get pdf files and fine tune pretrained model, lastly use this model. pdf file을 받아서 llm을 파인튜닝하는 파이프라인 구축, model의 활용
 
 # in progress not end
-this project will be a part of ros project https://github.com/genji970/robot_simulation_with_llm_gpt2_reinforcement_learning
 
 ## Update ##
 1. 2024.12.26 docker image build
