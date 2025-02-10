@@ -5,7 +5,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 ## Update ##
 link : https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api<br>
-ll model service is deployed in aws 
+llm model service is deployed in aws 
 
 ## used ##
 python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , ..
