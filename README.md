@@ -5,6 +5,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 
 ## Update ##
 1. 2024.12.26 docker image build
+2. api image released api code is here
 
 ## how to run ## 
 1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal 
