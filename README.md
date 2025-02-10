@@ -11,11 +11,13 @@ next : opt.
 5) move saved model from llm_project_train to service folder
 6) `pip install -r service/requirements.txt`
 7) python -m main
-8) api rusn
+8) api run
 
 or just simply
 
-`docker pull ghcr.io/genji970/api:latest`
+1) `docker pull ghcr.io/genji970/api:latest`
+2) `docker run -d -p 8000:8000 --name api_container ghcr.io/genji970/api_image:latest`
+3) `http://<EC2_PUBLIC_IP>:8000`
 
 ## used ##
 python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , fast api, aws ec2, etc.
