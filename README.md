@@ -4,18 +4,8 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 # in progress not end
 
 ## Update ##
-1. 2024.12.26 docker image build
-2. api image released api code is here
-   https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api 
-
-## how to run ## 
-1) You need to set export OPENAI_API_KEY="your-openai-api-key" in terminal 
-2) `git clone this repo and put : python -m master.main True` or use `docker_image run code`<br>
-   fine_tuning mode = ['True' , 'False']<br>
-   You will see pdf -> chunk -> model train -> inference
-
-4) sample docker image package code `docker pull ghcr.io/genji970/llm_data_collecting-processing_inference:latest`
-
+link : https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api
+ll model service is deployed in aws 
 
 ## used ##
 python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , ..
