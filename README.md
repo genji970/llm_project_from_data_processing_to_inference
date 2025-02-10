@@ -3,7 +3,7 @@
 next : opt.
 
 ## used ##
-python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , ..
+python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , fast api, aws ec2, etc.
 
 ## future plans ## 
 
