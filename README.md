@@ -4,7 +4,7 @@ pipeline building to get pdf files and fine tune pretrained model, lastly use th
 # in progress not end
 
 ## Update ##
-link : https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api
+link : https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api<br>
 ll model service is deployed in aws 
 
 ## used ##
