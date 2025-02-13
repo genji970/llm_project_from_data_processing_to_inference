@@ -2,6 +2,8 @@
 
 next : opt.
 
+service folder link : `https://github.com/genji970/llm-service-deployment-for-fine-tuned-gpt2-pipeline-using-rest-api`
+
 ## how to run ##
 
 1) `git clone llm_project_train folder and dockerfile`
