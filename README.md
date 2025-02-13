@@ -37,5 +37,6 @@ python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv 
 
 7) eval metrics : F1 , BLEU, if RAG is added then adding Recall@k , Precision@k
 
-## reference ## 
+## Further change will be made in this repo ##
+link : `https://github.com/genji970/sllm_pipeline_from_training_to_deploying`
 
