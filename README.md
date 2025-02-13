@@ -11,7 +11,7 @@ service folder link : `https://github.com/genji970/llm-service-deployment-for-fi
 3) `python -m llm_project_train.master.main True/False`
 4) `git clone service folder`
 5) move saved model from llm_project_train to service folder
-6) `pip install -r service/requirements.txt`
+6) `pip install -r requirements.txt`
 7) python -m main
 8) api run
 
