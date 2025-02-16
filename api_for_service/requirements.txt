@@ -1,0 +1,8 @@
+fastapi==0.95.1
+uvicorn==0.34.0
+torch==2.5.1
+pymongo==4.11
+pydantic==1.10.21
+safetensors==0.5.2
+peft==0.14.0
+transformers==4.47.0
